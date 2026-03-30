@@ -1,0 +1,13 @@
+ProductID,EventType,Timestamp,Location,CustomerID
+P101,Manufactured,2024-01-01,Factory1,
+P101,Sold,2024-01-05,Store3,C001
+P101,Returned,2024-03-02,Store3,C001
+P101,Refurbished,2024-03-10,RepairCenter1,
+P101,Resold,2024-03-15,Store3,C009
+P101,Recycled,2025-01-10,RecycleHub,
+P102,Manufactured,2024-02-01,Factory1,
+P102,Sold,2024-02-06,Store4,C002
+P102,Recycled,2025-01-01,RecycleHub,
+P103,Manufactured,2024-03-01,Factory1,
+P103,Sold,2024-03-06,Store5,C003
+P103,Returned,2024-04-01,Store5,C003

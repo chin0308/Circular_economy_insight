@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+pymysql
+mlxtend
+matplotlib
+networkx
+scikit-learn
+streamlit
